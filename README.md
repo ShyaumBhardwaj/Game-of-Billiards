@@ -1,4 +1,4 @@
-Two-Player Pool Game
+Two-Player Pool Game  
 Welcome to the GitHub repository for my Two-Player Pool Game! This project is a digital rendition of the classic billiards game designed for two players to compete on a single device. Built with simplicity and engagement in mind, this game offers a fun and competitive experience.
 
 Features
